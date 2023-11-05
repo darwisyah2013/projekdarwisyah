@@ -18,6 +18,7 @@ header h1 {
 main h1{
    color: rgb(150, 22, 150); 
    text-align: center;
+     text-transform: uppercase;
 }
 
 footer {
